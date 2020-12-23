@@ -21,7 +21,7 @@ int find_mysnum_mode1(int num,int mysterynumber,const int MAX,const int MIN, int
             printf("it's greater !");
     }
     else //case 3 : num=mysterynumber
-        if(shot==1) //This one for grammar's nerds :p
+        if(shot==1) //grammar
             printf("\n\n        Congratulations, you find the mystery number in %d shot \n\n",shot);
         else
             printf("\n\n        Congratulations, you find the mystery number in %d shots \n\n",shot);
@@ -49,7 +49,7 @@ int find_mysnum_mode2(int num,int mysteryNumber,const int MAX,const int MIN, int
                 printf("it's greater !");
         }
         else // case 3 num = mystery number
-            if(shot==1) // grammar
+            if(shot==1)
                 printf("\n\n        Congratulations Player 2, you find the mystery number in %d shot \n\n",shot);
             else
                 printf("\n\n        Congratulations Player 2, you find the mystery number in %d shots \n\n",shot);
