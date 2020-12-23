@@ -16,7 +16,6 @@ int main()
     int continuegame=1;
     bool continueGame=1;
 
-    //Some Aesthetics <3
     printf("\n\n\n\n");
     printf("                          (--+-+-+-+-+-+-+-+-+-+-+--)\n");
     printf("                          (|-+-+-+-+-+-+-+-+-+-+-+-|)\n");
